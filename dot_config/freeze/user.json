@@ -1,0 +1,17 @@
+{
+  "window": true,
+  "theme": "rose-pine-moon",
+  "border": {
+    "radius": 8,
+    "width": 0,
+    "color": "#515151"
+  },
+  "shadow": false,
+  "padding": 10,
+  "margin": 10,
+  "font": {
+    "family": "Berkeley Mono",
+    "size": 14
+  },
+  "line_height": 1.2
+}

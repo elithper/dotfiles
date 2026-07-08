@@ -1,0 +1,9 @@
+font-family = Berkeley Mono
+font-size = 14 
+shell-integration = fish
+shell-integration-features = no-cursor
+cursor-style = block
+cursor-style-blink = true
+theme = modus_operandi
+cursor-click-to-move = true
+mouse-hide-while-typing = true

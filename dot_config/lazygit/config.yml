@@ -1,0 +1,5 @@
+git:
+  pagers:
+    - colorArg: always
+      pager: delta --paging=never --light --syntax-theme="modus_operandi" --line-numbers --hyperlinks --hyperlinks-file-link-format="lazygit-edit://{path}:{line}"
+
